@@ -1,7 +1,7 @@
 1. App Name: Studdy Buddies
 2. App Tagline: Tinder for studying
-3. Links: https://bit.ly/2H3GPlB
-4. Screenshots:
+3. Links: None
+4. Screenshots: https://bit.ly/2H3GPLB
 5. Description: After loging in the user sees the display of all their classes they then have the option to add a class to their list and to delete a class.
 6. Requirements for iOS: We have a working UI, a UICollectionView, a UITableView, and navigation from bttons. We also use a GET, DELETE, and POST request. 
 6. Requirements for backend: We used SQLAlchemy, have a GET, POST, and DELETE request, and have deployed the app.
