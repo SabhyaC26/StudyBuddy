@@ -1,2 +1,0 @@
-# StudyBuddy
-hello world
